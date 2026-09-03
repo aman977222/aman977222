@@ -1,17 +1,101 @@
-<h1 align="center">Hi 👋, I'm Aman Kumer Jangid</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, I'm Aman Kumar Jangid 👋</h1>
+<h3 align="center">Frontend Developer | Software Developer | Python & ML/AI Enthusiast from India 🇮🇳</h3>
 
-- 📝This website is an e-commerce platform called 'Shree Shyam Products' that showcases and sells traditional Indian handicrafts, eco-friendly bags, and wooden home decor. Features a dynamic shopping cart, product categories, and regional artisan filters. [Shree Shyam Product](https://aman977222.github.io/Shree-Shyam-Product/)
-
-- 📝A professional networking platform for tech enthusiasts to connect, share knowledge, and collaborate on projects. Features include profiles, blogs, project showcases, and community forums. [NEXUS](https://aman977222.github.io/NEXUS/)
-
-- 👨‍💻 All of my projects are available at [protfolio](https://aman977222.github.io/Portfolio-1.0/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-jangid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-jangid/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/offical_aman1279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/offical_aman1279/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?color=pink&center=true&vCenter=true&lines=Frontend+Developer;Software+Developer;Python+Developer;Machine+Learning+and+AI+Enthusiast;E-Commerce+and+Web+App+Builder;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+- 🔭 I'm currently building creative and functional web projects, along with Python-based software and ML/AI experiments
+- 🌱 Learning new tools and frameworks in Frontend Development, Software Development, and Machine Learning / AI
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://aman977222.github.io/Portfolio-1.0/)**
+- 💬 Ask me about HTML, CSS, JavaScript, PHP, Python, Machine Learning, or AI
+- ⚡ Fun fact: I love turning simple ideas into polished, working products
+
+---
+
+### 🛠️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🛍️ Shree Shyam Products</h4>
+      <p>An e-commerce platform showcasing and selling traditional Indian handicrafts, eco-friendly bags, and wooden home decor. Features a dynamic shopping cart, product categories, and regional artisan filters.</p>
+      <a href="https://aman977222.github.io/Shree-Shyam-Product/">
+        <img src="https://img.shields.io/badge/View_Project-pink?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project" />
+      </a>
+    </td>
+    <td width="50%">
+      <h4>🌐 NEXUS</h4>
+      <p>A professional networking platform for tech enthusiasts to connect, share knowledge, and collaborate on projects. Features profiles, blogs, project showcases, and community forums.</p>
+      <a href="https://aman977222.github.io/NEXUS/">
+        <img src="https://img.shields.io/badge/View_Project-purple?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://aman977222.github.io/Portfolio-1.0/">
+    <img src="https://img.shields.io/badge/See_Full_Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,mysql,mongodb,oracle,git,ai,ps,tensorflow,sklearn,opencv,jupyter" alt="tech stack" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</p>
+
+### 🤖 Software / ML / AI Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Software_Developer-black?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software Developer" />
+  <img src="https://img.shields.io/badge/Python_Developer-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
+  <img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-purple?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=aman977222&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman977222&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aman977222&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/aman977222" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-kumar-jangid/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/offical_aman1279/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" alt="footer wave" />
+</p>

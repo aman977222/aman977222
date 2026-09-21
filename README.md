@@ -29,9 +29,9 @@
       </a>
     </td>
     <td width="50%">
-      <h4>🌐 NEXUS</h4>
-      <p>A professional networking platform for tech enthusiasts to connect, share knowledge, and collaborate on projects. Features profiles, blogs, project showcases, and community forums.</p>
-      <a href="https://aman977222.github.io/NEXUS/">
+      <h4>🌐 Radhey Radhey funcher</h4>
+      <p>Radhey Radhey Furniture & Handicraft is a Jaipur-based workshop selling handcrafted solid Sheesham and Teak wood sofas, beds, dining sets, pooja mandirs and Indian handicrafts. It offers direct workshop pricing, custom-size orders, and delivery across Jaipur, along with glass, aluminium and steel work..</p>
+      <a href="https://aman977222.github.io/radhey-radhey-funicher/">
         <img src="https://img.shields.io/badge/View_Project-purple?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project" />
       </a>
     </td>

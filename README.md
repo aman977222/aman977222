@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aman977222.github.io/Portfolio-1.0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aman977222.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/aman-kumar-jangid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/offical_aman1279/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -34,7 +34,7 @@
 
 - 🔭 Building creative and functional web projects, Python-based software and ML/AI experiments
 - 🌱 Learning new tools and frameworks in Frontend Development, Software Development, and Machine Learning / AI
-- 👨‍💻 All my projects live in my **[Portfolio](https://aman977222.github.io/Portfolio-1.0/)**
+- 👨‍💻 All my projects live in my **[Portfolio](https://aman977222.github.io/Portfolio/)**
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, Python, Machine Learning, or AI
 - ⚡ Fun fact: I love turning simple ideas into polished, working products
 
@@ -67,7 +67,7 @@
 </table>
 
 <p align="center">
-  <a href="https://aman977222.github.io/Portfolio-1.0/">
+  <a href="https://aman977222.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/See_Full_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
